@@ -1,3 +1,24 @@
+# CART Model Pipeline
+
+## Overview
+This project contains a Jupyter Notebook (`CART_Model_Pipeline.ipynb`) that demonstrates a Classification and Regression Trees (CART) Decision Tree model. The pipeline is built to predict a gym member's `Experience_Level` based on various health, biometric, and workout-related features.
+
+## Prerequisites
+Ensure you have Python installed (Python 3.8+ is recommended). You will also need `pip` to install the required packages.
+
+## Dependencies
+The following Python libraries are required to execute the machine learning pipeline:
+- `pandas`: For data manipulation, preprocessing, and loading.
+- `matplotlib`: For generating plots and visualizations.
+- `scikit-learn`: For data splitting, label encoding, building the Decision Tree, and model evaluation metrics.
+- `jupyter` (or `notebook`): To open and execute the `.ipynb` file.
+
+### Installation
+You can install all the required dependencies at once by running the following command in your terminal or command prompt:
+```bash 
+pip install pandas matplotlib scikit-learn jupyter
+```
+
 # Data Setup
 
 The notebook expects the dataset to be placed in a specific directory relative to the notebook file.
