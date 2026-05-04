@@ -13,7 +13,7 @@ The following Python libraries are required to execute the machine learning pipe
 - `scikit-learn`: For data splitting, label encoding, building the Decision Tree, and model evaluation metrics.
 - `jupyter` (or `notebook`): To open and execute the `.ipynb` file.
 
-### Installation
+## Installation
 You can install all the required dependencies at once by running the following command in your terminal or command prompt:
 ```bash 
 pip install pandas matplotlib scikit-learn jupyter
