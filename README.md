@@ -16,7 +16,13 @@ This project predicts athlete training time using machine learning techniques. I
 ---
 
 ## Project Structure
-. ├── data/ │   └── gym_members_exercise_tracking.csv ├── notebooks/ │   └── sportsman_training_time_prediction.ipynb ├── models/ ├── README.md └── requirements.txt
+  ├── data/ 
+  │   └── gym_members_exercise_tracking.csv 
+  ├── notebooks/ 
+  │   └── sportsman_training_time_prediction.ipynb 
+  ├── models/ 
+  ├── README.md 
+  └── requirements.txt
 
 ---
 
