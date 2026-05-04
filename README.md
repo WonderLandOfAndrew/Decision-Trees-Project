@@ -19,7 +19,7 @@ You can install all the required dependencies at once by running the following c
 pip install pandas matplotlib scikit-learn jupyter
 ```
 
-# Data Setup
+## Data Setup
 
 The notebook expects the dataset to be placed in a specific directory relative to the notebook file.
 
@@ -33,14 +33,14 @@ Ensure your folder structure looks exactly like this before running the notebook
 
 (Note: If the dataset is missing or named differently, the notebook will throw a FileNotFoundError at the data loading step.)
 
-# How to Run the Pipeline
+## How to Run the Pipeline
 1. Download the files to your local machine, keeping the directory structure intact.
 2. Open a terminal/command prompt and navigate to the folder containing CART_Model_Pipeline.ipynb.
 3. Launch Jupyter Notebook by executing: `jupyter notebook`
 4. In the web interface that opens, click on CART_Model_Pipeline.ipynb.
 5. Run the notebook sequentially, cell by cell (using Shift + Enter), or select Kernel > Restart & Run All from the top menu.
 
-# Pipeline Structure
+## Pipeline Structure
 The notebook guides you through the following Machine Learning steps:
 1. Import Libraries & Load Data: Loads the CSV dataset and previews the records.
 2. Preprocessing & Splitting:
