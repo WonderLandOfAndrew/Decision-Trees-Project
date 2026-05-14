@@ -163,7 +163,7 @@ Algorithms explored may include:
 - ID3 (Iterative Dichotomiser 3)
 - C4.5 Decision Tree
 - CART (Classification and Regression Trees)
-- Random Forest
+- CHIAD
 
 Different hyperparameters are tested to improve:
 - Accuracy
